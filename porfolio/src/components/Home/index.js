@@ -18,13 +18,14 @@ export default function Home(){
                 </h1>
                 <p> Hi, i'm Joshua Samples. I am from Heard County, Georgia. It's a small town around a hour and a half west of Atlanta. I have been working construction doing hardwood floors the last couple of years. I have always known that i've always wanted to do something in technology.</p>
             </div>
-            </div>
             <div id="Picture-of-myself">
                 <Image src ={ProfilePic} alt="ProfilePic" />
                 </div>
                 <div class="card">
     <a href={Resume}><Image src={Resume}alt="resume"/></a>
 </div>
+</div>
+
 <div id= "work">
 <div class="card">
     <a href="https://github.com/joshuasamples2/"><Image src={Github} alt="github"/></a>
