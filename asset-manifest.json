@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.13172a38.css",
+    "main.js": "/personal-portfolio/static/js/main.6c98dac9.js",
+    "static/js/787.202b8111.chunk.js": "/personal-portfolio/static/js/787.202b8111.chunk.js",
+    "static/media/Horiseon.png": "/personal-portfolio/static/media/Horiseon.8fe6b7e8d3354bf3684a.png",
+    "static/media/camping.png": "/personal-portfolio/static/media/camping.005a49beb8f2e737bc1d.png",
+    "static/media/githubprofile.png": "/personal-portfolio/static/media/githubprofile.8c9d89994fa69584386a.png",
+    "static/media/Weather.png": "/personal-portfolio/static/media/Weather.ffc435abc0cc38ab99e6.png",
+    "static/media/workday.png": "/personal-portfolio/static/media/workday.da8e5e00c63ccda6ba77.png",
+    "static/media/codequiz.png": "/personal-portfolio/static/media/codequiz.abb05ee4068e58fccebd.png",
+    "static/media/resume.png": "/personal-portfolio/static/media/resume.ff894f3dfd05e2d1bd4e.png",
+    "index.html": "/personal-portfolio/index.html",
+    "main.13172a38.css.map": "/personal-portfolio/static/css/main.13172a38.css.map",
+    "main.6c98dac9.js.map": "/personal-portfolio/static/js/main.6c98dac9.js.map",
+    "787.202b8111.chunk.js.map": "/personal-portfolio/static/js/787.202b8111.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13172a38.css",
+    "static/js/main.6c98dac9.js"
+  ]
+}
